@@ -8,7 +8,7 @@ This C program reads the header of an audio file and determines if it is a WAV o
 
 To run this program, follow these steps:
 
-1. Clone or download the project from the GitHub repository: https://github.com/KarimSIM2024/Multimedia-Projects.git
+1. Clone or download the project from the GitHub repository: https://github.com/KarimSIM2024/Multimedia-Projects-main.git
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Compile the program using the following command:
    ```
